@@ -19,4 +19,4 @@ Books for programation
 - Programacao de Computadores, Leme E. S.
 - Refatoração, Kent Beck
 - Sistemas Orientados a Objetos: Teoria e Pratica com UML e Java 1a, Pablo Rangel
-- The complete Reference 7a, Schildt
+- The Complete Reference 7a, Schildt
