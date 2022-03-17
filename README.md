@@ -55,7 +55,7 @@ Python: 3 Manuscripts in 1 book - Python Programing For (Beginners, Intermediate
 </p>
 Python Programming For Begginers: Learn The Basics Of Python Programing, Kindle
 <p>
-  <img src="./img/pythonProgrammingForBegginers.png" width="200" title="hover text">
+  <img src="./img/learnTheBasics.png" width="200" title="hover text">
 </p>
 Programacao de Computadores, Leme E. S.
 <p>
