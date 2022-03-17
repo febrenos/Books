@@ -35,7 +35,7 @@ Logica de Programacao: A construcao de Algoritimos e Estrutura de Dados 3a, Forb
 </p>
 Logica de Programacao Algoritimica, Guedes S.
 <p>
-  <img src="./img/logicadeProgramacaoAConstrucao.png" width="200" title="hover text">
+  <img src="./img/algoritimica.png" width="200" title="hover text">
 </p>
 Logica de Programacao e Estrutura de Dados com Aplicacoes java 2a, Sandra Puga
 <p>
