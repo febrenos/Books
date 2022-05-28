@@ -1,6 +1,9 @@
 # Books
-Books for programation
-
+Books for programation</br></br>
+Algoritmos, Thomas H. Cormen
+<p>
+  <img src="./img/algoritimos.jpg" width="200" title="hover text">
+</p>
 Banco de Dados, Sandra Puga
 <p>
   <img src="./img/bancoDeDados.png" width="200" title="hover text">
