@@ -1,6 +1,11 @@
 # Books
 Books for programation [ALL BOOKS](https://drive.google.com/drive/folders/1FhIBhAuUt8bOHAA5Ng2FPW-V_1hgmr73?usp=drive_link)</br></br>
 
+38 estratégias para vencer qualquer debate, Arthur Schopenhauer
+<p>
+  <img src="./img/38EstratégiasParaVencerQualquer Debate.png" width="200" title="hover text">
+</p>
+
 Algoritmos, Thomas H. Cormen
 <p>
   <img src="./img/algoritimos.jpg" width="200" title="hover text">
