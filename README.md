@@ -1,4 +1,6 @@
 # Books
+- poder & manipulação, jacob petry
+- o principe, nicolau maquiavel
 Books for programation [ALL BOOKS](https://drive.google.com/drive/folders/1FhIBhAuUt8bOHAA5Ng2FPW-V_1hgmr73?usp=drive_link)</br></br>
 
 Books for programation [BibliotecaDev git hub](https://github.com/KAYOKG/BibliotecaDev)</br></br>
