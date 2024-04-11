@@ -1,6 +1,7 @@
 # Books
 - poder & manipulação, jacob petry
 - o principe, nicolau maquiavel
+- Refactoring Databases - Evolutionary Database Design, Scott W. Ambeer, pramod J. Sadalace
 
 - Books for programation [ALL BOOKS](https://drive.google.com/drive/folders/1FhIBhAuUt8bOHAA5Ng2FPW-V_1hgmr73?usp=drive_link)</br></br>
 
